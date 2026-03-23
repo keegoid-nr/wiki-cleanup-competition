@@ -28,9 +28,6 @@ permissions:
     - read:confluence-content.summary
     - read:confluence-user
     - read:confluence-props
-  content:
-    styles:
-      - "unsafe-inline"
   external:
     fetch:
       backend:
